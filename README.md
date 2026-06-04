@@ -37,4 +37,5 @@
 ```text
 單字 [Tab] 音標 [Tab] 音檔相對路徑 [Tab] 詳細解釋與字根拆解
 
-<img width="629" height="387" alt="image" src="https://github.com/user-attachments/assets/90ab9bc3-9dca-4c05-bd9c-a6b0d84d16fb" />
+<img width="633" height="398" alt="image" src="https://github.com/user-attachments/assets/8d15282e-08bd-4eca-8af7-8719996e4c91" />
+
